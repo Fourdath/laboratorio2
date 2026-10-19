@@ -2,7 +2,7 @@
 
 **Asignatura:** Ingeniería Web Avanzada, OII436-1.
 
-**Integrantes:** COMPLETAR con los nombres antes de entregar.
+**Integrantes:** Matias Prado
 
 **Repositorio:** https://github.com/Fourdath/laboratorio2
 
@@ -258,5 +258,5 @@ Repositorio de entrega: https://github.com/Fourdath/laboratorio2
 
 Los siete archivos requeridos están en la raíz del repositorio. No se versionan
 el entorno virtual `.venv/`, la carpeta `.git/` ni las cachés de Python.
-Antes de entregar, completar los nombres de integrantes al inicio de este README
-y ejecutar los programas en el computador de entrega para verificar los resultados.
+Antes de entregar, ejecutar los programas en el computador de entrega para
+verificar los resultados.
